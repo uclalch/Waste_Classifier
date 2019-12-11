@@ -14,27 +14,14 @@ The first function of our app, also the main ability of our app is recognizing t
 
 Another capability of our app is that it takes back the incorrect data, that the users report when they find out that the prediction of our model is clearly wrong. This feedback system allows us producers to look into where we did wrong, to consistently renew our database online, and to improve our AI model in order to provide more accurate predictions.
 
-# Header 1
-## Header 2
-### Header 3
+# How to
+For you to use our project, you need to download all the files we have, and put them in the same directory. When you try to build our project in the Xcode, you might encounter a problem called "No such module as Firebase", or something similar. Then what you need to do, is to delete all the pod related file and the .xcworkspace file. Then you need to use terminal to install the pod by yourself. Remember not to delete the Podfile.
 
-- Bulleted
-- List
+# Results
+The final results are pretty satisfying. We are able to detect some of the daily disposals and to successfully classify them as recyclable or organic. However, the error could be large when the item we are detecting is not in our database. Since we are only using pre-tained model we found online, there should be more to be done on collecting more data.
 
-1. Numbered
-2. List
+# Future Work
+For the future work, it definitly needs to use more models that show the properties of the disposal. For example, the brand of the disposal, and also the condition of the disposal, etc.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uclalch/Waste_Classifier/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# You could find a demo video in the link below
+http://
