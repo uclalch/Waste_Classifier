@@ -24,4 +24,4 @@ The final results are pretty satisfying. We are able to detect some of the daily
 For the future work, it definitly needs to use more models that show the properties of the disposal. For example, the brand of the disposal, and also the condition of the disposal, etc.
 
 # You could find a demo video in the link below
-http://
+https://youtu.be/LqhDFwBWfBY
